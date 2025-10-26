@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 It's Quentin Desbin, another web engineer guy
 
-<!--
-**quentin-desbin/quentin-desbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭  I worked on [Extinction-Minijeux.fr](https://www.extinction-minijeux.fr/) to save this old Flash game and re-develop it with HTML5/JS
+- 👯  I collaborate on a lot of projects, private or public
+- 👾  Games : Minecraft, Valorant, Rocket League, Ghost Recon.   
+- 🎞️  Old youtuber&streamer. Twitch addict
+- 🧑‍🏫  I taught at Toulouse Ynov Campus for 3 years
 
-Here are some ideas to get you started:
+I'm 🇫🇷 and I love "chocolatines" !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working for [iObeya](https://www.iobeya.com/), an amazing visual management tool, and I do some freelance
+
+
+[![Quentin's github stats](https://github-readme-stats.vercel.app/api?username=quentin-desbin)](https://github.com/quentin-desbin)
