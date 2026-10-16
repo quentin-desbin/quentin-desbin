@@ -12,3 +12,5 @@ I'm currently working for [iObeya](https://www.iobeya.com/), an amazing visual m
 
 
 [![Quentin's github stats](https://github-readme-stats.vercel.app/api?username=quentin-desbin)](https://github.com/quentin-desbin)
+
+This paragraph should be reviewed by claude-code and considered to be removed
